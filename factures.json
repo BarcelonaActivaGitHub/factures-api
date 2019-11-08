@@ -1,0 +1,80 @@
+{
+    "factures": [
+        {
+            "id": 1,
+            "numero": "1000",
+            "data": "2019-01-03T17:49:21.000Z",
+            "concepte": "Manteniment landing page",
+            "base": 100,
+            "tipusIva": 21,
+            "tipus": 0,
+            "abonada": false,
+            "total": 121,
+            "iva": 21,
+            "estat": 0
+        },
+        {
+            "id": 2,
+            "numero": "1001",
+            "data": "1547056161000",
+            "concepte": "Configuració virtual host",
+            "base": 50,
+            "tipusIva": 21,
+            "tipus": "ingres",
+            "abonada": false
+        },
+        {
+            "id": 3,
+            "numero": "1002",
+            "data": null,
+            "concepte": "Configuració inicial VPS",
+            "base": 300,
+            "tipusIva": 21,
+            "tipus": "ingres",
+            "abonada": false,
+            "total": 363,
+            "iva": 63,
+            "estat": 1
+        },
+        {
+            "id": 4,
+            "numero": "A003",
+            "data": "1546458561000",
+            "concepte": "Domini .com",
+            "base": 10,
+            "tipusIva": 21,
+            "tipus": "despesa",
+            "abonada": true
+        },
+        {
+            "id": 5,
+            "numero": "8003",
+            "data": "1546631361000",
+            "concepte": "Esmorzar",
+            "base": 1.2,
+            "tipusIva": 10,
+            "tipus": "despesa",
+            "abonada": true
+        },
+        {
+            "id": 6,
+            "numero": "738792",
+            "data": "1547236161000",
+            "concepte": "Inclusió logo XXSS",
+            "base": 45,
+            "tipusIva": 10,
+            "tipus": "despesa",
+            "abonada": false
+        },
+        {
+            "id": 7,
+            "numero": "19/3888",
+            "data": "1548013761000",
+            "concepte": "Disseny logo",
+            "base": 670,
+            "tipusIva": 21,
+            "tipus": "despesa",
+            "abonada": false
+        }
+    ]
+}
