@@ -75,6 +75,16 @@
             "tipusIva": 21,
             "tipus": "despesa",
             "abonada": false
+        },
+        {
+            "id": 8,
+            "numero": "19/40000",
+            "data": "1548013761584",
+            "concepte": "Disseny pag1",
+            "base": 670,
+            "tipusIva": 21,
+            "tipus": "despesa",
+            "abonada": false
         }
     ]
 }
