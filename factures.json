@@ -1,5 +1,5 @@
-{
-    "factures": [
+﻿{
+    "factures": [ //Array de facturas
         {
             "id": 1,
             "numero": "1000",
