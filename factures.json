@@ -75,10 +75,25 @@
             "tipusIva": 21,
             "tipus": "despesa",
             "abonada": false
+        },
+        {
+
+            "codi": 8,
+        
+            "numero": "1003",
+        
+            "data": "1546459539382",
+        
+            "concepte": "Revisió continguts",
+        
+            "base": 320,
+        
+            "tipusIva": 21,
+        
+            "tipus": "ingres",
+        
+            "abonada": false
+        
         }
-        s
-        s
-        s
-        s
-    ]
+     ]
 }
